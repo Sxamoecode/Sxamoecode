@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sxamoecode
-- 👀 I’m interested in ... machine languages
-- 🌱 I’m currently learning ... to be a full stack developer
-- 💞️ I’m looking to collaborate on ... software engineering projects
+- 👀 I’m interested in ... Software Engineering
+- 🌱 I’m currently ... a Backend developer
+- 💞️ I’m looking to collaborate on ... Software Engineering projects
 - 📫 How to reach me ... samuelayandare@gmail.com
 
 <!---
